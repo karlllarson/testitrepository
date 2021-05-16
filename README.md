@@ -24,3 +24,4 @@ public class Alpha {
 }
 ```
 ## Here is the output
+![git](https://user-images.githubusercontent.com/35807054/118405803-149d9a80-b63f-11eb-8a1d-e04a3bd42c8e.PNG)
